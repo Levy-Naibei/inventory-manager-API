@@ -11,8 +11,9 @@ Open the project folder with an editor: VSCode, Pycharm etc
 ```
 On the editor's terminal, activate the virtual environment by: `source env/bin/activate`
 ```
-``
+```
 Run `pip install -r requirents.txt` to install dependencies
+```
 ```
 Run `python manage.py runserver`
 ```
