@@ -22,10 +22,10 @@ Copy the localhost address to the browsers address bar
 ```
 ### API endpoints
 ```
-  Retrieve products: `http://127.0.0.1:8000`
-  Retrieve product category: `http://127.0.0.1:8000/categories`
-  Retrieve product location: `http://127.0.0.1:8000/locations`
-  Retrieve transactions: `http://127.0.0.1:8000/transactions'
+  Retrieve products: http://127.0.0.1:8000
+  Retrieve product category: http://127.0.0.1:8000/categories
+  Retrieve product location: http://127.0.0.1:8000/locations
+  Retrieve transactions: http://127.0.0.1:8000/transactions
 ```
 ```
   Retrieve single product: http:127.0.0.1:8000/id
