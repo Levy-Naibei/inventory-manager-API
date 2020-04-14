@@ -9,13 +9,16 @@ clone the repo: git clone https://github.com/Levy-Naibei/inventory-manager-API
 Open the project folder with an editor: VSCode, Pycharm etc
 ```
 ```
-On the editor's terminal, activate the virtual environment by: source env/bin/activate
+On the editor's terminal, create the virtual environment by: python3 -m venv (name of virtual env)
 ```
 ```
-Run pip install -r requirents.txt` to install dependencies
+Activate the virtual environment by: source (name of virtual env)/bin/activate
 ```
 ```
-Run python manage.py runserver
+Run pip install -r requirents.txt` to install all dependencies
+```
+```
+Run python manage.py runserver to start local server
 ```
 ```
 Copy the localhost address to the browsers address bar

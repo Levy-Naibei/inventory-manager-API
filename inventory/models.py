@@ -25,7 +25,7 @@ class Family(models.Model):
     reference = models.CharField(max_length=13)
     title = models.CharField(max_length=200)
     description = models.TextField()
-    unit = models.CharField(max_length=10, blank=True, null=True)
+    unit = models.CharField(max_length=10)
 
     def get_absolute_url(self):
         """Returns the url to access a particular instance of Family."""
